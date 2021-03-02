@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1614702003009,
+      "nim": "1841720118",
+      "nama": "Rio Ferdiansyah",
+      "alamat": "Bluru Permai ck-05",
+      "telfon": "",
+      "angkatan": "2018",
+      "status": "Mahasiswa",
+      "Telepon": "08963001881"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
